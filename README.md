@@ -10,7 +10,7 @@ In C-- you can:
  - declare if/else statements
  - declare while loops
  
-C-- syntax corresponds to that of C++
+C-- syntax corresponds to that of C++<br />
 C-- only has one type, <b>integer</b>, used for numerical and boolean (0 or 1) values
 
 The available operators are:
