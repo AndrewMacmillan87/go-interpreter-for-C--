@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/AMacmi01/interpreter/token"
+import "github.com/sedexdev/interpreter/token"
 
 /*
 ==========

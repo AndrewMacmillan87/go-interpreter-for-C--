@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	"github.com/AMacmi01/interpreter/evaluator"
-	"github.com/AMacmi01/interpreter/lexer"
-	"github.com/AMacmi01/interpreter/parser"
-	"github.com/AMacmi01/interpreter/symbol"
-	"github.com/AMacmi01/interpreter/testcode"
+	"github.com/sedexdev/interpreter/evaluator"
+	"github.com/sedexdev/interpreter/lexer"
+	"github.com/sedexdev/interpreter/parser"
+	"github.com/sedexdev/interpreter/symbol"
+	"github.com/sedexdev/interpreter/testcode"
 )
 
 func main() {

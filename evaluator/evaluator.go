@@ -3,8 +3,8 @@ package evaluator
 import (
 	"fmt"
 
-	"github.com/AMacmi01/interpreter/ast"
-	"github.com/AMacmi01/interpreter/symbol"
+	"github.com/sedexdev/interpreter/ast"
+	"github.com/sedexdev/interpreter/symbol"
 )
 
 /*

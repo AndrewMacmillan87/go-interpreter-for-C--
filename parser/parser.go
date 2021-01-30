@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/AMacmi01/interpreter/ast"
-	"github.com/AMacmi01/interpreter/lexer"
-	"github.com/AMacmi01/interpreter/token"
+	"github.com/sedexdev/interpreter/ast"
+	"github.com/sedexdev/interpreter/lexer"
+	"github.com/sedexdev/interpreter/token"
 )
 
 // Constant denoting no precedence

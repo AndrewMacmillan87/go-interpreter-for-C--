@@ -3,7 +3,7 @@ package lexer
 import (
 	"regexp"
 
-	"github.com/AMacmi01/interpreter/token"
+	"github.com/sedexdev/interpreter/token"
 )
 
 /*
